@@ -1,11 +1,11 @@
 function valida_dato {
 	if [[ $dato -gt $total ]]
 	then
-		x="suposision demasiado alta"
+		x="alta"
 	else
-		x="suposision demasiado baja"
+		x="baja"
 	fi
-	echo "Incorrecto, intente de nuevo, $x"
+	echo "Incorrecto, intente de nuevo: suposicion demaciado $x"
 }
 total=$(find . -maxdepth 1 -type f | wc -l)
 echo "Adivina el numero de archivos en el repositorio actual"
