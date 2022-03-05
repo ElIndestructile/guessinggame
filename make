@@ -1,4 +1,4 @@
-echo "# creacion de programa guessinggame.sh" > README.md
+echo "# Creacion de programa guessinggame.sh" > README.md
 echo "" >> README.md
 date_stamp=$(date +"%F.%H.%M.%S")
 echo "Fecha y hora de creacion: $date_stamp" >> README.md
