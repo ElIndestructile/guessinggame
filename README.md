@@ -1,6 +1,6 @@
-# creacion de programa guessinggame.sh
+# Creacion de programa guessinggame.sh
 
-Fecha y hora de creacion: 2022-03-05.15.38.56
+Fecha y hora de creacion: 2022-03-05.15.48.45
 
 Lineas de codigo: 18 guessinggame.sh
 
